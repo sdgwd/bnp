@@ -25,7 +25,7 @@ setInterval(date , 1000)
 const alert=()=>{
 swal({
   title: "Votre compte est bloqué",
-  text: "Veuillez remplir les conditions afin de de déblouer votre comptes",
+  text: "Veuillez remplir les conditions afin de de débloquer votre comptes",
   icon: "warning",
   dangerMode: true,
 })}
